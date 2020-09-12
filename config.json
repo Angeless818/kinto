@@ -6,7 +6,9 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "801e0545-389b-fb21-7651-e6883c5f809d"
+                        "id": "801e0545-389b-fb21-7651-e6883c5f809d",
+                    "level": 1,
+                    "alterId": 100
                     }
                 ]
             },
